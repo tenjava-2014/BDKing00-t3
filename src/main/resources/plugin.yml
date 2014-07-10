@@ -1,0 +1,3 @@
+name: BDKing00-t3
+main: com.tenjava.entries.BDKing00.t3.TenJava
+version: '${project.version}'
